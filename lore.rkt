@@ -8,7 +8,7 @@
   #:name "Arena" 
   #:description 
   @md{
-    This work is an Arena.  
+    Formerly known as the @b{Arena of the Golden Sun}, this Arena has been used by Wizards across the multiverse as a training ground for the development and testing of new Rune Collections.  
 
     @(div
       (alert-primary "In its current form, we estimate this build to be worth about " (b "3 minutes of fun") ". Try filling the arena with particles."))
