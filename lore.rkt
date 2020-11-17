@@ -13,7 +13,10 @@
       (alert-primary "In its current form, we estimate this build to be worth about " (b "3 minutes of fun") ". Try filling the arena with particles."))
     }
   #:rune-collections
-  (list 'fire-particles)
+  (list 'hierarchy
+	'fire-particles
+	'ice-particles
+	'rocks)
   #:preview-image preview.png)
 
 
